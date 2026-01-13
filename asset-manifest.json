@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/marsx-technology/static/css/main.412a7e4f.css",
-    "main.js": "/marsx-technology/static/js/main.070c1e1d.js",
+    "main.css": "/marsx-technology/static/css/main.6a36d40e.css",
+    "main.js": "/marsx-technology/static/js/main.1fdf25c0.js",
     "index.html": "/marsx-technology/index.html",
-    "main.412a7e4f.css.map": "/marsx-technology/static/css/main.412a7e4f.css.map",
-    "main.070c1e1d.js.map": "/marsx-technology/static/js/main.070c1e1d.js.map"
+    "main.6a36d40e.css.map": "/marsx-technology/static/css/main.6a36d40e.css.map",
+    "main.1fdf25c0.js.map": "/marsx-technology/static/js/main.1fdf25c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.412a7e4f.css",
-    "static/js/main.070c1e1d.js"
+    "static/css/main.6a36d40e.css",
+    "static/js/main.1fdf25c0.js"
   ]
 }
