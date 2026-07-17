@@ -49,6 +49,22 @@ export default function Technologies() {
           <h3>IoT Integration</h3>
           <p>Smart devices, sensors, and real-time data systems for connected solutions.</p>
         </div>
+
+        <div className="tech-card">
+          <div className="tech-icon">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="60" alt="Unity logo" />
+          </div>
+          <h3>Unity</h3>
+          <p>Interactive 2D and 3D experiences, game development, and immersive simulations.</p>
+        </div>
+
+        <div className="tech-card">
+          <div className="tech-icon">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidandroid-original.svg" width="60" alt="Android Studio logo" />
+          </div>
+          <h3>Android Studio</h3>
+          <p>Native Android app development, UI design, and mobile platform integration.</p>
+        </div>
       </div>
     </section>
   );
